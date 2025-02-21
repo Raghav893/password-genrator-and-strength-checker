@@ -121,5 +121,5 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
-if __name__ == "__main__":
-    main()
+
+main()
